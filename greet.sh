@@ -1,1 +1,1 @@
-echo "Hello from the release drill"
+echo "Hello from the fixed release drill"
