@@ -1,0 +1,11 @@
+name: Release Drill
+
+on:
+  workflow_dispatch:
+
+jobs:
+  drill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Greet
+        run: echo "Hello from the release drill"
